@@ -1,6 +1,6 @@
 # auth #
 
-[Example Frontend code](https://github.com/Patrik-kh/example-auth/tree/master/example%20auth/auth)
+[Example Frontend code](https://github.com/Patrik-kh/example-auth/tree/master/auth)
 
 
 ```sh
@@ -17,7 +17,7 @@
 
 # authentication #
 
-[Example Backend code](https://github.com/Patrik-kh/example-auth/tree/master/example%20auth/authentication)
+[Example Backend code](https://github.com/Patrik-kh/example-auth/tree/master/authentication)
 
 
 ```sh
